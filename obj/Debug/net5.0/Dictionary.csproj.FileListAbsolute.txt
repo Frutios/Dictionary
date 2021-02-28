@@ -1,0 +1,16 @@
+C:\Users\benji\Desktop\C#\Dictionary\bin\Debug\net5.0\Dictionary.exe
+C:\Users\benji\Desktop\C#\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+C:\Users\benji\Desktop\C#\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+C:\Users\benji\Desktop\C#\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+C:\Users\benji\Desktop\C#\Dictionary\bin\Debug\net5.0\Dictionary.dll
+C:\Users\benji\Desktop\C#\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+C:\Users\benji\Desktop\C#\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\Dictionary.csprojAssemblyReference.cache
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\Dictionary.dll
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+C:\Users\benji\Desktop\C#\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache
